@@ -1,0 +1,1 @@
+web: gunicorn molecor_backend.wsgi:application 
