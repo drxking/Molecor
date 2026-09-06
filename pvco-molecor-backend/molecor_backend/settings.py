@@ -57,7 +57,7 @@ INSTALLED_APPS = [
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
     # "https://molecor-frontend-ylui.vercel.app",
-    "https://pvco-molecor-frontend.vercel.app",
+    "https://molecor.vercel.app",
     # Add your frontend URL here for production, e.g. "https://your-frontend.vercel.app"
 ]
 
